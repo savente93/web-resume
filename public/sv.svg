@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="27.519516mm"
+   height="25.405149mm"
+   viewBox="0 0 27.519516 25.40515"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="sv.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.104161"
+     inkscape:cx="9.9802251"
+     inkscape:cy="71.524947"
+     inkscape:window-width="1728"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="143.45152"
+       y="258.8277"
+       width="85.152443"
+       height="85.477417"
+       id="rect6639" />
+    <rect
+       x="88.486176"
+       y="230.86394"
+       width="479.04797"
+       height="416.68588"
+       id="rect1793" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="background"
+     transform="translate(1.9855433,0.68644387)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:1.00221;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect14025"
+       width="27.519516"
+       height="25.405149"
+       x="-1.9855433"
+       y="-0.68644387" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Filled Rect"
+     transform="translate(-24.744956,-69.418921)">
+    <rect
+       style="fill:#b380ff;stroke:none;stroke-width:0.18002"
+       id="rect12098"
+       width="21.411224"
+       height="21.411224"
+       x="30.027639"
+       y="72.370941" />
+  </g>
+  <g
+     inkscape:label="Text"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-24.744956,-69.418921)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,7.9912908,11.288239)"
+       id="text1791"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1793);fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.7811;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+         x="88.486328"
+         y="270.32998"
+         id="tspan18685"><tspan
+           style="font-style:italic;font-weight:bold;font-size:42.6667px;font-family:'Lobster Two';-inkscape-font-specification:'Lobster Two, Bold Italic'"
+           id="tspan18683">S</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text6637"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect6639);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="39.073761"
+       y="88.020279"
+       id="text8757"><tspan
+         sodipodi:role="line"
+         id="tspan8755"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;font-family:'Lobster Two';-inkscape-font-specification:'Lobster Two, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         x="39.073761"
+         y="88.020279">V</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Empty Rect"
+     transform="translate(-24.744956,-69.418921)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1.197;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect11902"
+       width="21.093098"
+       height="21.093098"
+       x="27.329"
+       y="70.703865" />
+  </g>
+</svg>

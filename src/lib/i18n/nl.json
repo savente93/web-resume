@@ -1,0 +1,47 @@
+{
+  "landing": {
+    "title": "Sam Vente",
+    "subtitle": "Data Scientist.",
+    "artAttribution": "Tekening door <a href=\"https://www.patreon.com/LeelumzArt\">LeelumzArt</a>"
+  },
+  "intro": {
+    "title": "Storytelling voor het digitale tijdperk.",
+    "listPreamble": "Ik draag een hoop verschillende petten, maar boven alles, zie ik mijzelf als een storyteller. Storytelling in het digitale tijdperk brengt een hoop verschillende aspecten met zich mee:",
+    "l1": "Effectief beheersen van zowel standard tools zoals <a href=\"https://en.wikipedia.org/wiki/SQL\">SQL</a>, <a href=\"https://www.python.org/\">Python</a>, <a href=\"https://pandas.pydata.org/\">Pandas</a> en <a href=\"https://plotly.com/\">Plotly</a> als invoatieve technologie zoals <a href=\"https://svelte.dev/\">Svelte</a> en <a href=\"https://www.rust-lang.org/\">Rust</a>",
+    "l2": "Met een ieder hun eigen taal kunnen spreken, of het nu leken, buisness consultants of academici zijn.",
+    "l3": "Begrijpen hoe textuele en visuele taal samenwerken zodat we beide tot hun volle potentie kunnen gebruiken.",
+    "l4": "Complexe situaties en moeilijke problemen begrijpen en ontdekken wat aan hun grondvesten ligt."
+  },
+  "blog": {
+    "title": "Ik heb ook een blog. Hier zijn een paar van de meest recente posts die ik heb geschreven:"
+  },
+  "data": {
+    "title": "Oftewel: achter elk data punt schuilt een verhaal.",
+    "subtitle": "Mijn taak is om naar al die verhalen te luisteren en dat te combineren tot wat u nodig heeft, of dat nu",
+    "cliffNotes": "Een beknopte samenvatting is<sup>[1]</sup>",
+    "narrative": "Of een geweldig verhaal.<sup>[1]</sup>",
+    "footnote": "[1] Alle data is fictief."
+  },
+  "showcase": {
+    "title": "Hier is een greep uit de prestaties waar ik het meest trots op ben: ",
+    "tb": {
+      "title": "Bacteriën tellen in microscopie foto's.",
+      "problemStatement": "Voor medisch Tuberculose onderzoek moeten bacteriën in microscopie foto's handmatig geteld worden. Dit is zeer tijd intensief en foutgevoelig. Hier zou een automatische oplossing de onderzoekscapaciteit dus drastisch kunnen verbeteren.",
+      "solutionDescription": "Een simpele GUI voor het standaardiseren van data annotatie, en een computer vision algoritme om het tellen te verrichten.",
+      "outcomes": "Een vertienvoudiging van de beschikbare data door het stroomlijnen van het annoteren, en een publicatie over de implementatie van het algoritme in de IEEE-conferentie"
+    },
+    "fairness": {
+      "title": "Rechtvaardigheid controles in voorspellende modellen.",
+      "problemStatement": "Als er niet er secuur te werk wordt gegaan, zullen voorspellende modellen bestaande biases vaak jegens beschermde karakteristieken zoals gender, ras en geloof, versterken. De eerste stap in dit tegen te gaan is een robuust inzicht in hoe en wanneer dit gebeurt.",
+      "solutionDescription": "Een onderzoek naar de huidige technologische mogelijkheden rond dit probleem, zowel in literatuur als bestaande software, met als uitgaanspunt aanbevelingen voor methodiek en hoe die toe te passen.",
+      "outcomes": "Een rapport met literatuur onderzoek en een voorstel voor een framework voor het uitvoeren van deze controles is aangeboden aan de C-suite van het departement."
+    }
+  },
+  "skills": {
+    "title": "Ten slotte nog een greep uit de tools die ik kan gebruiken om de magie mogelijk te maken:",
+    "ds": "Data Science",
+    "web": "Web & visualisatie",
+    "prod": "Productie",
+    "platforms": "Platforms"
+  }
+}

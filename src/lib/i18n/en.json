@@ -1,0 +1,47 @@
+{
+  "landing": {
+    "title": "Sam Vente",
+    "subtitle": "Data Scientist.",
+    "artAttribution": "Art made by <a href=\"https://www.patreon.com/LeelumzArt\">LeelumzArt</a>"
+  },
+  "intro": {
+    "title": "Storytelling for the digital age.",
+    "listPreamble": "I wear many different hats, but above all I like to think of myself as a storyteller. Storytelling in the digital age involves a lot of different aspects:",
+    "l1": "Mastering standard tools like <a href=\"https://en.wikipedia.org/wiki/SQL\">SQL</a>, <a href=\"https://www.python.org/\">Python</a>, <a href=\"https://pandas.pydata.org/\">Pandas</a> and <a href=\"https://plotly.com/\">Plotly</a> as well as invoative technologies such as <a href=\"https://svelte.dev/\">Svelte</a> and <a href=\"https://www.rust-lang.org/\">Rust</a>",
+    "l2": "Meeting people where they are and speaking their language, whether that be a lay person, a buisness consultant or an academic researcher.",
+    "l3": "Understanding the interplay between textual and visual language so we can use both to their fullest potential.",
+    "l4": "A drive to understand complex situations, hard problems and discover what's at their roots."
+  },
+  "blog": {
+    "title": "I also have a blog, here is some of the stuff I've written:"
+  },
+  "data": {
+    "title": "In short: every data point has something to say.",
+    "subtitle": "My job is to listen to all of them, and combine it into what you need, whether that's",
+    "cliffNotes": "Just the cliff notes<sup>[1]</sup>",
+    "narrative": "Or a gripping narative.<sup>[1]</sup>",
+    "footnote": "[1] All data is fictitious."
+  },
+  "showcase": {
+    "title": "Here are some of the projects that I'm most proud of: ",
+    "tb": {
+      "title": "Counting bacteria in microsopy images.",
+      "problemStatement": "For medical research into tuberculosis, bacteria need to be counted manually in microscopy images. This is error prone and very labour intensive, so having an automated solution for this would greatly improve research capabilities.",
+      "solutionDescription": "A simple annotation GUI for standardized data annotation, and a computer vision implementation to perform the counting.",
+      "outcomes": "10x increase in data availability due to application, and a publication of this research at an IEEE conference"
+    },
+    "fairness": {
+      "title": "Predictive fairness auditing.",
+      "problemStatement": "Unless care is taken, predictive models will reinforce existing biases towards protected characteristics (race, gender, religtion etc.). The first step to mitigating is gaining a robust understanding of how and when it happens.",
+      "solutionDescription": "Review of existing solutions, both in academic literature as in existing software, with recommendations on which methodology to apply them.",
+      "outcomes": "A report containing a literature review and proposal for a implementation framework presented to department's C-suite."
+    }
+  },
+  "skills": {
+    "title": "Finally here are some of the tools I can use to make the magic happen:",
+    "ds": "Data Science",
+    "web": "Web & visualisation",
+    "prod": "Productionsizing",
+    "platforms": "Platforms"
+  }
+}
