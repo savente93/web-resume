@@ -9,7 +9,7 @@
 
   let items = [];
   onMount(async () => {
-    const res = await fetch("https://howtoai.fyi/atom.xml");
+    const res = await fetch("https://slowcoder.org/atom.xml");
     const text = await res.text();
     const feedDocument = new DOMParser().parseFromString(text, "text/xml");
     items = [...feedDocument.querySelectorAll("entry")]
