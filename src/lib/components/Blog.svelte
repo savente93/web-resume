@@ -13,16 +13,19 @@
     const text = await res.text();
     const feedDocument = new DOMParser().parseFromString(text, "text/xml");
     items = [...feedDocument.querySelectorAll("entry")]
-      .slice(0, numBlogPosts)
       .map((item) => {
         const title = item.querySelector("title").textContent;
         const published = new Date(
           item.querySelector("published").textContent
         ).toLocaleDateString("en-GB");
-        const url = item.querySelector("link").attributes["href"].value;
+        const url = item.querySelector("link").attributes["href"].textContent;
 
-        return { title, url, published };
-      });
+        const section = new URL(url).pathname.split("/")[1]
+
+        return { title, url, published, section };
+
+      }).filter(it => it.section === "blog")
+      .slice(0, numBlogPosts);
   });
 </script>
 
